@@ -1,6 +1,6 @@
 <div align = "center">
 Olá! Eu sou o Juniior Santos 🖐️ <br>
-🌱 Estudando JAVA♨️ <br>
+🌱 Estou cursando Jovem Programador no Senac <br>
 😄 Pronomes Ele/Dele <br>
 <br>
   
