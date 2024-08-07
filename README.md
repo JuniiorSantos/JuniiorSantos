@@ -1,15 +1,9 @@
-<div align = "center">
-Olá! Eu sou o Juniior Santos 🖐️ <br>
-🌱 Estou cursando Jovem Programador no Senac <br>
-😄 Pronomes Ele/Dele <br>
-<br>
-  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/realjuniiorsantos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniiorsntos)
-</div>
-<div align = "center">
-  
+### Hi there 👋
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranierij&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranierij&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -25,5 +19,17 @@ Olá! Eu sou o Juniior Santos 🖐️ <br>
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: ranierijesuino@gmail.com">
+      <img width="35" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/ranieri-jesuino-305777189/">
+      <img width="30" src="linkedin.svg">
+    </a>
+   
+  
+</div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
