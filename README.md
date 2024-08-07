@@ -17,16 +17,6 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: ranierijesuino@gmail.com">
-      <img width="35" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/ranieri-jesuino-305777189/">
-      <img width="30" src="linkedin.svg">
-    </a>
-   
   
 </div>
   
